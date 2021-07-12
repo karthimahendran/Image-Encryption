@@ -1,0 +1,6 @@
+F:\My Files\project\mine\bin\Release\TestBase64.exe
+F:\My Files\project\mine\obj\Release\TestBase64.Form1.resources
+F:\My Files\project\mine\obj\Release\TestBase64.csproj.GenerateResource.Cache
+F:\My Files\project\mine\obj\Release\TestBase64.exe
+F:\My Files\project\mine\obj\Release\TestBase64.Properties.Resources.resources
+F:\My Files\project\mine\obj\Release\TestBase64.csprojResolveAssemblyReference.cache
